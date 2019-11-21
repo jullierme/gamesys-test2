@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79b2bbc2-8541-40c6-b21f-26285367cf65" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TptYcn8RyeSv2galEruwX93U3O" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/gamesys/mars" />
+    <property name="last_opened_file_path" value="C:/workspace/revolut-test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julli\Desktop\mars\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gamesys.mars.movement" />
+      <recent name="com.gamesys.mars.rover" />
+      <recent name="com.gamesys.mars.direction" />
+      <recent name="com.gamesys.mars.coordinates" />
+      <recent name="com.gamesys.mars.area" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gamesys.mars.movement" />
+      <recent name="com.gamesys.mars.rover" />
+      <recent name="com.gamesys.mars.moviment" />
+      <recent name="com.gamesys.mars" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gamesys.mars.rover" />
+      <recent name="com.gamesys.mars" />
+      <recent name="mars" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.com.gamesys.mars in mars">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gamesys.Application" />
+      <module name="mars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gamesys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovementStraightTest.givenInvalidPositionsToMoveFromNorth_whenMoveStraight_thenShouldException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gamesys.mars.movement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gamesys.mars.movement" />
+      <option name="MAIN_CLASS_NAME" value="com.gamesys.mars.movement.MovementStraightTest" />
+      <option name="METHOD_NAME" value="givenInvalidPositionsToMoveFromNorth_whenMoveStraight_thenShouldException(com.gamesys.mars.domain.Orientation)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovementStraightTest.givenRover_whenMoveStraight_thenShouldHaveTheCorrectOrientation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gamesys.mars.movement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gamesys.mars.movement" />
+      <option name="MAIN_CLASS_NAME" value="com.gamesys.mars.movement.MovementStraightTest" />
+      <option name="METHOD_NAME" value="givenRover_whenMoveStraight_thenShouldHaveTheCorrectOrientation(int,int,com.gamesys.mars.domain.Orientation)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverCommandsServiceTest.givenACommand_whenRunCommands_thenShouldMoveAndGetTheCorrectString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gamesys.mars.rover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gamesys.mars.rover" />
+      <option name="MAIN_CLASS_NAME" value="com.gamesys.mars.rover.RoverCommandsServiceTest" />
+      <option name="METHOD_NAME" value="givenACommand_whenRunCommands_thenShouldMoveAndGetTheCorrectString(java.lang.String,java.lang.String,int,int,com.gamesys.mars.domain.Direction)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.gamesys.mars in mars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gamesys.mars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gamesys.mars" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.gamesys.mars in mars" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.RoverCommandsServiceTest.givenACommand_whenRunCommands_thenShouldMoveAndGetTheCorrectString" />
+        <item itemvalue="JUnit.MovementStraightTest.givenInvalidPositionsToMoveFromNorth_whenMoveStraight_thenShouldException" />
+        <item itemvalue="JUnit.MovementStraightTest.givenRover_whenMoveStraight_thenShouldHaveTheCorrectOrientation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79b2bbc2-8541-40c6-b21f-26285367cf65" name="Default Changelist" comment="" />
+      <created>1574168912362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574168912362</updated>
+      <workItem from="1574168915608" duration="577000" />
+      <workItem from="1574169516980" duration="78000" />
+      <workItem from="1574169605390" duration="13594000" />
+      <workItem from="1574191630154" duration="17140000" />
+      <workItem from="1574210502400" duration="6478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gamesys/mars/movement/MovementStraight.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mars$MovementStraightTest_givenRover_whenMoveStraight_thenShouldHaveTheCorrectOrientation.ic" NAME="MovementStraightTest.givenRover_whenMoveStraight_thenShouldHaveTheCorrectOrientation Coverage Results" MODIFIED="1574214821022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gamesys.mars.movement.*</FILTER>
+    </SUITE>
+  </component>
+</project>
